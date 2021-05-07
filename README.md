@@ -11,10 +11,10 @@
 
 ```cson
 {
-  languages: [Python, C, Matlab, Bash, HTML, CSS],
-  tools: [Git, Tensorflow, Keras],
+  languages: [Python, C, Matlab, Bash, Scratch, HTML, CSS],
+  tools: [CLI, Git, GitHub, Numpy, Pandas, Tensorflow, Keras],
   interests: ["Theory of computation", "Machine learning", "Web development"],
-  challenge: "Building a compiler for a programming language."
+  challenge: "Teaching myself Machine Learning."
 }
 ```
 
