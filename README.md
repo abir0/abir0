@@ -10,9 +10,10 @@
 
 ```cson
 {
-  languages: [Python, C, Matlab, Bash, Scratch, HTML, CSS],
-  tools: [CLI, Git, GitHub, Numpy, Pandas, Tensorflow, Keras],
-  interests: ["Theory of computation", "Machine learning", "Web development"],
+  languages: [Python, C, Matlab, LaTex],
+  frameworks: [numpy, pandas, scipy, sklearn, tensorflow, Keras, Pillow, robot],
+  tools: [Terminal, Git, GitHub],
+  interests: ["Scientific Computing", "Machine Learning", "Data Science"],
   challenge: "Teaching myself Machine Learning."
 }
 ```
