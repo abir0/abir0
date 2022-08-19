@@ -10,8 +10,8 @@
 
 ```cson
 {
-  languages: [Python, C, Matlab, LaTex],
-  frameworks: [numpy, pandas, scipy, sklearn, Keras, flask, Pillow, robot],
+  languages: [Python, Matlab, C],
+  frameworks: [numpy, pandas, scipy, sklearn, tensorflow, Keras, flask, Pillow, robot],
   tools: [Terminal, Git, GitHub],
   interests: ["Scientific Computing", "Machine Learning", "Data Science"],
   challenge: "Teaching myself Machine Learning."
