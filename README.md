@@ -14,7 +14,7 @@
   frameworks: [numpy, pandas, scipy, sklearn, tensorflow, Keras, flask, Pillow, robot],
   tools: [Terminal, Git, GitHub],
   interests: ["Scientific Computing", "Machine Learning", "Data Science"],
-  challenge: "Teaching myself Machine Learning."
+  challenge: "Exploring the world of Data Science."
 }
 ```
 
