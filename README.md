@@ -11,8 +11,8 @@
 ```cson
 {
   languages: [Python, Matlab, C],
-  frameworks: [numpy, pandas, scipy, sklearn, tensorflow, Keras, flask, Pillow, robot],
-  tools: [Terminal, Git, GitHub],
+  frameworks: [numpy, pandas, matplotlib, scipy, sklearn, pytorch, fastai, selenium, flask],
+  tools: [Terminal, Git, GitHub, VS Code, Obsidian],
   interests: ["Scientific Computing", "Machine Learning", "Data Science"],
   challenge: "Exploring the world of Data Science."
 }
