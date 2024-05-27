@@ -1,7 +1,7 @@
 # Hi, I'm Abir!  <img align="middle" width="140" src="https://media.giphy.com/media/9AbEv0A0n3Tgju4tzE/giphy.gif"/>
 
 <p>
-  <em>Undergrad Student at <a href="https://www.butex.edu.bd/">Bangladesh University of Textiles</a></em>
+  <em>AI Engineer at <a href="https://nitex.com/">NITEX</a></em>
 </p>
 
 <!-- SOCIAL MEDIA BADGES -->
@@ -10,9 +10,9 @@
 
 ```cson
 {
-  languages: [Python, Matlab, C],
-  frameworks: [numpy, pandas, matplotlib, scipy, sklearn, pytorch, fastai, selenium, flask],
-  tools: [Terminal, Git, GitHub, VS Code, Obsidian],
+  languages: [Python, C, Matlab],
+  frameworks: [numpy, pandas, matplotlib, scipy, sklearn, pytorch, fastai, selenium, playwright, flask, fastapi],
+  tools: [Terminal, Git, GitHub, VS Code, Google Colab, Jupyter, Postman, Obsidian],
   interests: ["Scientific Computing", "Machine Learning", "Data Science"],
   challenge: "Exploring the world of Data Science."
 }
