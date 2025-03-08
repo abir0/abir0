@@ -11,8 +11,8 @@
 ```cson
 {
   languages: [Python, C/C++, Matlab, Bash],
-  frameworks: [numpy, pandas, matplotlib, scipy, sklearn, pytorch, fastai, playwright, fastapi, langgraph, vllm],
-  tools: [Terminal, Git, GitHub, Docker, Kubernetes, Terraform, NGINX, Wireshark, Jupyter, Postman, Ollama],
+  frameworks: [numpy, pandas, matplotlib, scipy, sklearn, pytorch, playwright, fastapi, langgraph],
+  tools: [Terminal, Git/GitHub, Docker, Kubernetes, Terraform, NGINX, Wireshark, Postman, Ollama],
   databases: [PostgeSQL, SQLite, Elasticsearch, MongoDB, Weaviate],
   interests: ["Parallel Computing", "Machine Learning", "Computational Physics"],
   challenge: "Exploring the intersection of computational physics and machine learning."
