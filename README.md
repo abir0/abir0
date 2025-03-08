@@ -1,7 +1,7 @@
 # Hi, I'm Abir!  <img align="middle" width="140" src="https://media.giphy.com/media/9AbEv0A0n3Tgju4tzE/giphy.gif"/>
 
 <p>
-  <em>AI Engineer at <a href="https://nitex.com/">NITEX</a></em>
+  <em>AI/ML Engineer </em>
 </p>
 
 <!-- SOCIAL MEDIA BADGES -->
@@ -10,11 +10,12 @@
 
 ```cson
 {
-  languages: [Python, C, Matlab],
-  frameworks: [numpy, pandas, matplotlib, scipy, sklearn, pytorch, fastai, selenium, playwright, flask, fastapi],
-  tools: [Terminal, Git, GitHub, VS Code, Google Colab, Jupyter, Postman, Obsidian],
-  interests: ["Scientific Computing", "Machine Learning", "Data Science"],
-  challenge: "Exploring the world of Data Science."
+  languages: [Python, C/C++, Matlab, Bash],
+  frameworks: [numpy, pandas, matplotlib, scipy, sklearn, pytorch, fastai, playwright, fastapi, langgraph, vllm],
+  tools: [Terminal, Git, GitHub, Docker, Kubernetes, Terraform, NGINX, Wireshark, Jupyter, Postman, Ollama],
+  databases: [PostgeSQL, SQLite, Elasticsearch, MongoDB, Weaviate],
+  interests: ["Parallel Computing", "Machine Learning", "Computational Physics"],
+  challenge: "Exploring the intersection of computational physics and machine learning."
 }
 ```
 
